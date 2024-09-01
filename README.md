@@ -32,9 +32,3 @@ This repository contains an organized overview of various research papers catego
 - **Diversity Selection**: [Cover-LS](https://arxiv.org/abs/2212.06800)
 - **Tree Structure Similarity**: [Dynamic Least-to-Most](https://arxiv.org/abs/2212.05880)
 - **Iterative LSTM with Reinforcement Learning**: [RetICL](https://arxiv.org/abs/2305.14502)
-
-## Retrieval Corpus
-
-- **In Domain**: [SYNCHROMESH](https://arxiv.org/abs/2105.00828), [KATE](https://arxiv.org/abs/2212.02551), [EPR](https://arxiv.org/abs/2106.01120), [MemPrompt](https://arxiv.org/abs/2201.06009), [TeachMe](https://arxiv.org/abs/2204.13074), [IC-DST](https://arxiv.org/abs/2210.09150), [Vote-k](https://arxiv.org/abs/2210.13179), [XRICL](https://arxiv.org/abs/2212.03113), [DSP](https://arxiv.org/abs/2212.14024), [Cover-LS](https://arxiv.org/abs/2212.06800), [PromptPG](https://arxiv.org/abs/2206.02336), [Dyn...
-
-
